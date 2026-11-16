@@ -139,7 +139,7 @@
                 {
                   "section": "Ena",
                   "style": {
-                    "height": "SMALL"
+                    "height": "MEDIUM"
                   }
                 }
               ]
@@ -265,7 +265,7 @@
           "Ena": {
             "title": "Ena",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
