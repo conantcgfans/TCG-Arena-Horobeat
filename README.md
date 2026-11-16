@@ -1,36 +1,36 @@
-# Holobeat TCG - Arena Game Files
+# Horobeat TCG - Arena Game Files
 
-A fan-made [TCG Arena](https://tcg-arena.fr) setup for the **Holobeat Card Game** (ホロビートカードゲーム) by Takara Tomy.
+A fan-made [TCG Arena](https://tcg-arena.fr) setup for the **Horobeat Card Game** (ホロビートカードゲーム) by Takara Tomy.
 Card data comes from the official card list: https://www.takaratomy.co.jp/products/horobeat-cardgame/cardlist/
 
 TCG Arena is a manual table: it doesn't enforce rules. Players resolve battles, damage and triggers themselves.
-The in-game help (`customHelp` in `Game_Holobeat.json`) has a condensed rules summary.
+The in-game help (`customHelp` in `Game_Horobeat.json`) has a condensed rules summary.
 
 ## Load into TCG Arena
 
 On [tcg-arena.fr](https://tcg-arena.fr) → **Custom Game** → paste:
 
 ```
-https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Game_Holobeat.json
+https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Horobeat/main/Game_Horobeat.json
 ```
 
 ## Update the card list
 
 ```bash
-cd F:\projects\Holobeat\Scripts
+cd F:\projects\Horobeat\Scripts
 python update_cards.py
 ```
 
-This scrapes all card-list pages, rebuilds `HolobeatCards.json` and downloads any new images into `Images/`.
-Then commit and push `HolobeatCards.json` and `Images/`.
+This scrapes all card-list pages, rebuilds `HorobeatCards.json` and downloads any new images into `Images/`.
+Then commit and push `HorobeatCards.json` and `Images/`.
 
 ## Files
 
 ```
-TCG-Arena-Holobeat/
-├── Game_Holobeat.json     ← game config (board, deck rules, help text)
-├── HolobeatCards.json     ← card database (generated)
-├── HolobeatDecks.json     ← sample decks (empty for now)
+TCG-Arena-Horobeat/
+├── Game_Horobeat.json     ← game config (board, deck rules, help text)
+├── HorobeatCards.json     ← card database (generated)
+├── HorobeatDecks.json     ← sample decks (empty for now)
 └── Images/                ← card images (<file_stem>.webp) + CardBack.jpg
 ```
 
