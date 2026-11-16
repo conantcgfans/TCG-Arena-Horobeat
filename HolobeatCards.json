@@ -1,0 +1,5461 @@
+{
+  "PR-031-UC-01": {
+    "id": "PR-031-UC-01",
+    "name": "送り犬 クロシバ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "PR-HOLOMOTION01"
+    ],
+    "cardNumber": "PR-031",
+    "power": 4000,
+    "boost": true,
+    "tribe": "ユウキ・コミューン",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトのバトル中、正面のホロビトはブーストを使えない。",
+    "illustrator": "shishimi",
+    "face": {
+      "front": {
+        "name": "送り犬 クロシバ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-031-uc-01.webp"
+      }
+    }
+  },
+  "PR-032-UC-01": {
+    "id": "PR-032-UC-01",
+    "name": "翅けげん",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "PR-HOLOMOTION01"
+    ],
+    "cardNumber": "PR-032",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Over Trigger",
+    "feature": "●1バリア（バトルに負けたとき、プレイヤーが受けるダメージは1減る）\n●このホロビトが出たとき、相手のホロビトのみがいるラインを1つ選び、そのラインに移動してもよい。",
+    "illustrator": "O-G Osahune",
+    "face": {
+      "front": {
+        "name": "翅けげん",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-032-uc-01.webp"
+      }
+    }
+  },
+  "PR-033-UC-01": {
+    "id": "PR-033-UC-01",
+    "name": "一本ダタラ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "PR-HOLOMOTION01"
+    ],
+    "cardNumber": "PR-033",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトが出たとき、各プレイヤーはハートを回復する。",
+    "illustrator": "Sekimellow",
+    "face": {
+      "front": {
+        "name": "一本ダタラ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-033-uc-01.webp"
+      }
+    }
+  },
+  "PR-034-UC-01": {
+    "id": "PR-034-UC-01",
+    "name": "童子危うきに近寄らず",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "PR-HOLOMOTION01"
+    ],
+    "cardNumber": "PR-034",
+    "power": 0,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このホロビトがバトルに勝ったとき、正面のホロビトの一番上のカードは、このラウンド中効果を失う。\n（トリガーなどで別のホロビトになったなら、その効果は失わせない）",
+    "illustrator": "Suzuneko",
+    "face": {
+      "front": {
+        "name": "童子危うきに近寄らず",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-034-uc-01.webp"
+      }
+    }
+  },
+  "PR-035-R-01": {
+    "id": "PR-035-R-01",
+    "name": "カオナシライダー",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "R",
+    "package": [
+      "PR-HOLOMOTION01"
+    ],
+    "cardNumber": "PR-035",
+    "power": 7000,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトを手札から出すなら、オーバービートでは出せない。",
+    "illustrator": "ROBUJA",
+    "face": {
+      "front": {
+        "name": "カオナシライダー",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-035-r-01.webp"
+      }
+    }
+  },
+  "PR-036-R-01": {
+    "id": "PR-036-R-01",
+    "name": "おぼろ車",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "PR-HOLOMOTION01"
+    ],
+    "cardNumber": "PR-036",
+    "power": 6000,
+    "boost": false,
+    "tribe": "バクソウ・クラブ",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトが出たとき、相手のホロビトを1体選び、このホロビトの正面のホロビトと入れ替えてもよい。\n（正面にホロビトがいないなら、入れ替えることはできない）",
+    "illustrator": "Nanami Lusia",
+    "face": {
+      "front": {
+        "name": "おぼろ車",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-036-r-01.webp"
+      }
+    }
+  },
+  "PR-037-R-01": {
+    "id": "PR-037-R-01",
+    "name": "以心電心",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 1,
+    "rarity": "R",
+    "package": [
+      "PR-MEIJINSEN-WIN"
+    ],
+    "cardNumber": "PR-037",
+    "power": 2000,
+    "boost": false,
+    "keyword": "Resonance",
+    "trigger": "Draw Trigger",
+    "feature": "●共鳴：ライガ（このワザを使うホロビトの種族がライガであるなら、このワザは以下の効果を得る）\n　・このワザを使ったとき、カードを1枚引く。\n　・このワザのパワーを+1000する。",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "以心電心",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-037-r-01.webp"
+      }
+    }
+  },
+  "HB01-001-C-01": {
+    "id": "HB01-001-C-01",
+    "name": "雷獣 レオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-001",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "雷獣 レオ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-001-c-01.webp"
+      }
+    }
+  },
+  "HB01-002-C-01": {
+    "id": "HB01-002-C-01",
+    "name": "レオまる",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-002",
+    "power": 2000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、カードを1枚引く。",
+    "illustrator": "O-G Osahune",
+    "face": {
+      "front": {
+        "name": "レオまる",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-002-c-01.webp"
+      }
+    }
+  },
+  "HB01-002-DR-01": {
+    "id": "HB01-002-DR-01",
+    "name": "レオまる",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-002",
+    "power": 2000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、カードを1枚引く。",
+    "illustrator": "gozz",
+    "face": {
+      "front": {
+        "name": "レオまる",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-002-dr-01.webp"
+      }
+    }
+  },
+  "HB01-003-C-01": {
+    "id": "HB01-003-C-01",
+    "name": "鎌鼬 カマイチ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-003",
+    "power": 3000,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "UKAI bakuinu",
+    "face": {
+      "front": {
+        "name": "鎌鼬 カマイチ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-003-c-01.webp"
+      }
+    }
+  },
+  "HB01-004-C-01": {
+    "id": "HB01-004-C-01",
+    "name": "夜さんぽ 七尾っち",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-004",
+    "power": 4000,
+    "boost": false,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Entry Trigger",
+    "illustrator": "hatapug",
+    "face": {
+      "front": {
+        "name": "夜さんぽ 七尾っち",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-004-c-01.webp"
+      }
+    }
+  },
+  "HB01-005-C-01": {
+    "id": "HB01-005-C-01",
+    "name": "雷獣おとん",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-005",
+    "power": 3000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Ena-yomi",
+    "trigger": "Entry Trigger",
+    "feature": "●エナ詠み赤3（自分のエナゾーンに赤のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・パワーを+2000する。",
+    "illustrator": "Mamezawa",
+    "face": {
+      "front": {
+        "name": "雷獣おとん",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-005-c-01.webp"
+      }
+    }
+  },
+  "HB01-006-C-01": {
+    "id": "HB01-006-C-01",
+    "name": "幻癒師 七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-006",
+    "power": 4000,
+    "boost": true,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、自分のホロビトを1体選び、回復する。",
+    "illustrator": "IRIA",
+    "face": {
+      "front": {
+        "name": "幻癒師 七尾",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-006-c-01.webp"
+      }
+    }
+  },
+  "HB01-007-C-01": {
+    "id": "HB01-007-C-01",
+    "name": "ユウキと鬼熊師匠",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-007",
+    "power": 5000,
+    "boost": false,
+    "tribe": "ユウキ・コミューン",
+    "trigger": "Entry Trigger",
+    "illustrator": "Takayuki Futami",
+    "face": {
+      "front": {
+        "name": "ユウキと鬼熊師匠",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-007-c-01.webp"
+      }
+    }
+  },
+  "HB01-008-C-01": {
+    "id": "HB01-008-C-01",
+    "name": "えんらマダム",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-008",
+    "power": 6000,
+    "boost": true,
+    "tribe": "オウチ・コミューン",
+    "trigger": "Over Trigger",
+    "illustrator": "Muna-Ge",
+    "face": {
+      "front": {
+        "name": "えんらマダム",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-008-c-01.webp"
+      }
+    }
+  },
+  "HB01-009-C-01": {
+    "id": "HB01-009-C-01",
+    "name": "ハグレ犬神",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-009",
+    "power": 7000,
+    "boost": true,
+    "tribe": "ナガレモノ",
+    "trigger": "Over Trigger",
+    "illustrator": "AIRI YOSHIHISA",
+    "face": {
+      "front": {
+        "name": "ハグレ犬神",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-009-c-01.webp"
+      }
+    }
+  },
+  "HB01-010-C-01": {
+    "id": "HB01-010-C-01",
+    "name": "二番戦陣",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 1,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-010",
+    "power": 3000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは第2～5ラインのホロビトのみ使える。",
+    "illustrator": "ROBUJA",
+    "face": {
+      "front": {
+        "name": "二番戦陣",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-010-c-01.webp"
+      }
+    }
+  },
+  "HB01-011-UC-01": {
+    "id": "HB01-011-UC-01",
+    "name": "シビレ提灯",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-011",
+    "power": 5000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトには、オーバービートできない。",
+    "illustrator": "Ragi",
+    "face": {
+      "front": {
+        "name": "シビレ提灯",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-011-uc-01.webp"
+      }
+    }
+  },
+  "HB01-012-UC-01": {
+    "id": "HB01-012-UC-01",
+    "name": "鎌鼬 カマジ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-012",
+    "power": 2500,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが第2～5ラインにいるなら、パワーを+2000する。",
+    "illustrator": "UKAI bakuinu",
+    "face": {
+      "front": {
+        "name": "鎌鼬 カマジ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-012-uc-01.webp"
+      }
+    }
+  },
+  "HB01-013-UC-01": {
+    "id": "HB01-013-UC-01",
+    "name": "ヒメコと剛腕のヒヒ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-013",
+    "power": 3000,
+    "boost": true,
+    "tribe": "コンガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがダウンしていないなら、パワーを+2000する。",
+    "illustrator": "shishimi",
+    "face": {
+      "front": {
+        "name": "ヒメコと剛腕のヒヒ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-013-uc-01.webp"
+      }
+    }
+  },
+  "HB01-014-UC-01": {
+    "id": "HB01-014-UC-01",
+    "name": "ヒナタを導く七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-014",
+    "power": 5000,
+    "boost": false,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、このホロビトを回復する。",
+    "illustrator": "hatapug",
+    "face": {
+      "front": {
+        "name": "ヒナタを導く七尾",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-014-uc-01.webp"
+      }
+    }
+  },
+  "HB01-014-DR-01": {
+    "id": "HB01-014-DR-01",
+    "name": "ヒナタを導く七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-014",
+    "power": 5000,
+    "boost": false,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、このホロビトを回復する。",
+    "illustrator": "HIRO SUDA",
+    "face": {
+      "front": {
+        "name": "ヒナタを導く七尾",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-014-dr-01.webp"
+      }
+    }
+  },
+  "HB01-015-UC-01": {
+    "id": "HB01-015-UC-01",
+    "name": "ジンと奮雷するレオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-015",
+    "power": 4500,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み赤3（自分のエナゾーンに赤のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・ダウンしていないなら、パワーを+3000する。",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "ジンと奮雷するレオ",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-015-uc-01.webp"
+      }
+    }
+  },
+  "HB01-016-UC-01": {
+    "id": "HB01-016-UC-01",
+    "name": "大豆 アズキチ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-016",
+    "power": 6000,
+    "boost": true,
+    "tribe": "オウチ・コミューン",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "Mamezawa",
+    "face": {
+      "front": {
+        "name": "大豆 アズキチ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-016-uc-01.webp"
+      }
+    }
+  },
+  "HB01-017-UC-01": {
+    "id": "HB01-017-UC-01",
+    "name": "えんらムッシュ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-017",
+    "power": 8500,
+    "boost": true,
+    "tribe": "オウチ・コミューン",
+    "trigger": "Over Trigger",
+    "illustrator": "Muna-Ge",
+    "face": {
+      "front": {
+        "name": "えんらムッシュ",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-017-uc-01.webp"
+      }
+    }
+  },
+  "HB01-018-UC-01": {
+    "id": "HB01-018-UC-01",
+    "name": "獣合 ヒヒヒメ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 7,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-018",
+    "power": 9000,
+    "boost": true,
+    "tribe": "コンガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "shishimi",
+    "face": {
+      "front": {
+        "name": "獣合 ヒヒヒメ",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-018-uc-01.webp"
+      }
+    }
+  },
+  "HB01-019-UC-01": {
+    "id": "HB01-019-UC-01",
+    "name": "以心電心",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-019",
+    "power": 2000,
+    "boost": false,
+    "keyword": "Resonance",
+    "trigger": "Draw Trigger",
+    "feature": "●共鳴：ライガ（このワザを使うホロビトの種族がライガであるなら、このワザは以下の効果を得る）\n　・このワザを使ったとき、カードを1枚引く。\n　・このワザのパワーを+1000する。",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "以心電心",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-019-uc-01.webp"
+      }
+    }
+  },
+  "HB01-020-UC-01": {
+    "id": "HB01-020-UC-01",
+    "name": "和気愛々",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-020",
+    "power": 3000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは下にカードが1枚以上あるホロビトのみ使える。",
+    "illustrator": "hatapug",
+    "face": {
+      "front": {
+        "name": "和気愛々",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-020-uc-01.webp"
+      }
+    }
+  },
+  "HB01-021-R-01": {
+    "id": "HB01-021-R-01",
+    "name": "ヨスズメ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-021",
+    "power": 5500,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトは、隣のラインにパワー4000以上のホロビトがいないなら出せない。",
+    "illustrator": "rikose",
+    "face": {
+      "front": {
+        "name": "ヨスズメ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-021-r-01.webp"
+      }
+    }
+  },
+  "HB01-022-R-01": {
+    "id": "HB01-022-R-01",
+    "name": "カオナシライダー",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-022",
+    "power": 7000,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトを手札から出すなら、オーバービートでは出せない。",
+    "illustrator": "Takayuki Futami",
+    "face": {
+      "front": {
+        "name": "カオナシライダー",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-022-r-01.webp"
+      }
+    }
+  },
+  "HB01-023-R-01": {
+    "id": "HB01-023-R-01",
+    "name": "滅獣 レオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-023",
+    "power": 4000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトは破壊されない。\n●このホロビトがダウンしていないなら、パワーを+3000し、ダブルダメージを得る。\n（ダブルダメージを持つホロビトがバトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "Nasuno",
+    "face": {
+      "front": {
+        "name": "滅獣 レオ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-023-r-01.webp"
+      }
+    }
+  },
+  "HB01-024-R-01": {
+    "id": "HB01-024-R-01",
+    "name": "夫婦円舞のえんら・えんら",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-024",
+    "power": 5000,
+    "boost": true,
+    "tribe": "オウチ・コミューン",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトが出たとき、自分のホロビトを1体選び、それと位置を入れ替えてもよい。",
+    "illustrator": "Muna-Ge",
+    "face": {
+      "front": {
+        "name": "夫婦円舞のえんら・えんら",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-024-r-01.webp"
+      }
+    }
+  },
+  "HB01-025-R-01": {
+    "id": "HB01-025-R-01",
+    "name": "滅獣 七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-025",
+    "power": 7000,
+    "boost": true,
+    "tribe": "マボロシ・コミューン",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトのバトルが終わったとき、このホロビトを回復する。",
+    "illustrator": "YUKI",
+    "face": {
+      "front": {
+        "name": "滅獣 七尾",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-025-r-01.webp"
+      }
+    }
+  },
+  "HB01-026-R-01": {
+    "id": "HB01-026-R-01",
+    "name": "鬼合 ユウ鬼",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-026",
+    "power": 12000,
+    "boost": true,
+    "tribe": "ユウキ・コミューン",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトが出たとき、自分のエナを1枚選び、墓地に置く。",
+    "illustrator": "Takayuki Futami",
+    "face": {
+      "front": {
+        "name": "鬼合 ユウ鬼",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-026-r-01.webp"
+      }
+    }
+  },
+  "HB01-027-R-01": {
+    "id": "HB01-027-R-01",
+    "name": "雷獣おかん",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-027",
+    "power": 12000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "Mamezawa",
+    "face": {
+      "front": {
+        "name": "雷獣おかん",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-027-r-01.webp"
+      }
+    }
+  },
+  "HB01-028-R-01": {
+    "id": "HB01-028-R-01",
+    "name": "合術 雷桜迅雷",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-028",
+    "power": 4000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは、自分のホロビトが4体以上ラインに出ているときのみ使える。\n●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "合術 雷桜迅雷",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-028-r-01.webp"
+      }
+    }
+  },
+  "HB01-028-DR-01": {
+    "id": "HB01-028-DR-01",
+    "name": "合術 雷桜迅雷",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-028",
+    "power": 4000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは、自分のホロビトが4体以上ラインに出ているときのみ使える。\n●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "RINDO KARASUBA",
+    "face": {
+      "front": {
+        "name": "合術 雷桜迅雷",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-028-dr-01.webp"
+      }
+    }
+  },
+  "HB01-029-R-01": {
+    "id": "HB01-029-R-01",
+    "name": "心斬一転",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-029",
+    "power": 0,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザを使ったとき、相手プレイヤーに1ダメージを与える。ただし、この効果でトドメは刺せない。",
+    "illustrator": "OZUNOYUMI",
+    "face": {
+      "front": {
+        "name": "心斬一転",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-029-r-01.webp"
+      }
+    }
+  },
+  "HB01-030-SR-01": {
+    "id": "HB01-030-SR-01",
+    "name": "同胞よ集え！ レオ＆ジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-030",
+    "power": 5500,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトには、オーバービートできない。\n●このホロビトが出たとき、手札からコスト2以下の赤のホロビトを1体、ラインに出してもよい。\n（コストは支払わない）",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "同胞よ集え！ レオ＆ジン",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-030-sr-01.webp"
+      }
+    }
+  },
+  "HB01-030-DR-01": {
+    "id": "HB01-030-DR-01",
+    "name": "同胞よ集え！ レオ＆ジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-030",
+    "power": 5500,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトには、オーバービートできない。\n●このホロビトが出たとき、手札からコスト2以下の赤のホロビトを1体、ラインに出してもよい。\n（コストは支払わない）",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "同胞よ集え！ レオ＆ジン",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-030-dr-01.webp"
+      }
+    }
+  },
+  "HB01-031-SR-01": {
+    "id": "HB01-031-SR-01",
+    "name": "妖狐 七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-031",
+    "power": 5000,
+    "boost": true,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、自分の赤のエナを1枚選ぶ。それを未使用にし、このホロビトを回復する。",
+    "illustrator": "YUMEKO",
+    "face": {
+      "front": {
+        "name": "妖狐 七尾",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-031-sr-01.webp"
+      }
+    }
+  },
+  "HB01-031-DR-01": {
+    "id": "HB01-031-DR-01",
+    "name": "妖狐 七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-031",
+    "power": 5000,
+    "boost": true,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、自分の赤のエナを1枚選ぶ。それを未使用にし、このホロビトを回復する。",
+    "illustrator": "Surie",
+    "face": {
+      "front": {
+        "name": "妖狐 七尾",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-031-dr-01.webp"
+      }
+    }
+  },
+  "HB01-032-SR-01": {
+    "id": "HB01-032-SR-01",
+    "name": "ようこそ！ カマブキ商會",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-032",
+    "power": 6000,
+    "boost": false,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトが第2～5ラインにいるなら、このホロビトはダブルダメージを得る。\n（ダブルダメージを持つホロビトがバトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトが第3～5ラインにいるなら、バトルが終わったとき、正面のホロビトを回復させ、カードを1枚引く。",
+    "illustrator": "UKAI bakuinu",
+    "face": {
+      "front": {
+        "name": "ようこそ！ カマブキ商會",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-032-sr-01.webp"
+      }
+    }
+  },
+  "HB01-032-DR-01": {
+    "id": "HB01-032-DR-01",
+    "name": "ようこそ！ カマブキ商會",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-032",
+    "power": 6000,
+    "boost": false,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトが第2～5ラインにいるなら、このホロビトはダブルダメージを得る。\n（ダブルダメージを持つホロビトがバトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトが第3～5ラインにいるなら、バトルが終わったとき、正面のホロビトを回復させ、カードを1枚引く。",
+    "illustrator": "YOSHIYA",
+    "face": {
+      "front": {
+        "name": "ようこそ！ カマブキ商會",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-032-dr-01.webp"
+      }
+    }
+  },
+  "HB01-033-SR-01": {
+    "id": "HB01-033-SR-01",
+    "name": "雷迅合身 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-033",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●自分の赤のホロビトが4体以上ラインに出ているなら、このホロビトのパワーを+5000する。",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "雷迅合身 レオジン",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-033-sr-01.webp"
+      }
+    }
+  },
+  "HB01-033-DR-01": {
+    "id": "HB01-033-DR-01",
+    "name": "雷迅合身 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-033",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●自分の赤のホロビトが4体以上ラインに出ているなら、このホロビトのパワーを+5000する。",
+    "illustrator": "Karo ARAI",
+    "face": {
+      "front": {
+        "name": "雷迅合身 レオジン",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-033-dr-01.webp"
+      }
+    }
+  },
+  "HB01-033-SEC-01": {
+    "id": "HB01-033-SEC-01",
+    "name": "雷迅合身 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "SEC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-033",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●自分の赤のホロビトが4体以上ラインに出ているなら、このホロビトのパワーを+5000する。",
+    "illustrator": "Akira Amano",
+    "face": {
+      "front": {
+        "name": "雷迅合身 レオジン",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-033-sec-01.webp"
+      }
+    }
+  },
+  "HB01-033-SEC-02": {
+    "id": "HB01-033-SEC-02",
+    "name": "雷迅合身 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "SEC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-033",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●自分の赤のホロビトが4体以上ラインに出ているなら、このホロビトのパワーを+5000する。",
+    "illustrator": "Akira Amano",
+    "face": {
+      "front": {
+        "name": "雷迅合身 レオジン",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-033-sec-02.webp"
+      }
+    }
+  },
+  "HB01-034-C-01": {
+    "id": "HB01-034-C-01",
+    "name": "しなずいさま",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-034",
+    "power": 2000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがラインに出ているなら、コストは1大きくなる。",
+    "illustrator": "kodama",
+    "face": {
+      "front": {
+        "name": "しなずいさま",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-034-c-01.webp"
+      }
+    }
+  },
+  "HB01-034-DR-01": {
+    "id": "HB01-034-DR-01",
+    "name": "しなずいさま",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-034",
+    "power": 2000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがラインに出ているなら、コストは1大きくなる。",
+    "illustrator": "NAGANO",
+    "face": {
+      "front": {
+        "name": "しなずいさま",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-034-dr-01.webp"
+      }
+    }
+  },
+  "HB01-035-C-01": {
+    "id": "HB01-035-C-01",
+    "name": "不死の不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-035",
+    "power": 3000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Entry Trigger",
+    "illustrator": "Hiro Usuda",
+    "face": {
+      "front": {
+        "name": "不死の不死火",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-035-c-01.webp"
+      }
+    }
+  },
+  "HB01-036-C-01": {
+    "id": "HB01-036-C-01",
+    "name": "つくものジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-036",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Entry Trigger",
+    "illustrator": "itohiro",
+    "face": {
+      "front": {
+        "name": "つくものジャンボ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-036-c-01.webp"
+      }
+    }
+  },
+  "HB01-037-C-01": {
+    "id": "HB01-037-C-01",
+    "name": "風船じゃんぷぅ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-037",
+    "power": 3000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、山札の一番上を見る。そのカードを山札の一番下に置いてもよい。",
+    "illustrator": "O-G Osahune",
+    "face": {
+      "front": {
+        "name": "風船じゃんぷぅ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-037-c-01.webp"
+      }
+    }
+  },
+  "HB01-038-C-01": {
+    "id": "HB01-038-C-01",
+    "name": "イツキと怪樹ふるそま",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-038",
+    "power": 6000,
+    "boost": true,
+    "tribe": "タイジュ・ブラッド",
+    "trigger": "Over Trigger",
+    "illustrator": "Moopic",
+    "face": {
+      "front": {
+        "name": "イツキと怪樹ふるそま",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-038-c-01.webp"
+      }
+    }
+  },
+  "HB01-039-C-01": {
+    "id": "HB01-039-C-01",
+    "name": "森霊 けげん",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-039",
+    "power": 5000,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Over Trigger",
+    "feature": "●1バリア（バトルに負けたとき、プレイヤーが受けるダメージは1減る）",
+    "illustrator": "YUKI",
+    "face": {
+      "front": {
+        "name": "森霊 けげん",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-039-c-01.webp"
+      }
+    }
+  },
+  "HB01-040-C-01": {
+    "id": "HB01-040-C-01",
+    "name": "独火魔",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-040",
+    "power": 7000,
+    "boost": true,
+    "tribe": "ナガレモノ",
+    "trigger": "Over Trigger",
+    "illustrator": "salsoba",
+    "face": {
+      "front": {
+        "name": "独火魔",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-040-c-01.webp"
+      }
+    }
+  },
+  "HB01-041-C-01": {
+    "id": "HB01-041-C-01",
+    "name": "おぼろタクシー",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-041",
+    "power": 7000,
+    "boost": false,
+    "tribe": "バクソウ・クラブ",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・パワーを+3000する。",
+    "illustrator": "AI NANAHIRA",
+    "face": {
+      "front": {
+        "name": "おぼろタクシー",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-041-c-01.webp"
+      }
+    }
+  },
+  "HB01-042-C-01": {
+    "id": "HB01-042-C-01",
+    "name": "私怨にて斬る！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 1,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-042",
+    "power": 2000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このホロビトの下にあるカードの枚数が、正面のホロビトの下にあるカードの枚数より多いなら、このワザのパワーを+2000する。",
+    "illustrator": "Aogachou",
+    "face": {
+      "front": {
+        "name": "私怨にて斬る！",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-042-c-01.webp"
+      }
+    }
+  },
+  "HB01-043-C-01": {
+    "id": "HB01-043-C-01",
+    "name": "１か！ ２か！ どっちなんだい！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 1,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-043",
+    "power": 3000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは、第1～2ラインのホロビトのみ使える。",
+    "illustrator": "Nanami Lusia",
+    "face": {
+      "front": {
+        "name": "１か！ ２か！ どっちなんだい！",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-043-c-01.webp"
+      }
+    }
+  },
+  "HB01-044-UC-01": {
+    "id": "HB01-044-UC-01",
+    "name": "おんぼろ車",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-044",
+    "power": 7000,
+    "boost": false,
+    "tribe": "バクソウ・クラブ",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、このホロビトに1ダメージを与える。",
+    "illustrator": "suranaki",
+    "face": {
+      "front": {
+        "name": "おんぼろ車",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-044-uc-01.webp"
+      }
+    }
+  },
+  "HB01-045-UC-01": {
+    "id": "HB01-045-UC-01",
+    "name": "タヴェルナと二口女",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-045",
+    "power": 4000,
+    "boost": true,
+    "tribe": "ビックリ・クラブ",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、自分のホロビトを1体選ぶ。手札からコスト5以下のホロビトを1体選び、そのホロビトの一番下に置いてもよい。そうしたなら、カードを1枚引く。",
+    "illustrator": "I☆LA",
+    "face": {
+      "front": {
+        "name": "タヴェルナと二口女",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-045-uc-01.webp"
+      }
+    }
+  },
+  "HB01-046-UC-01": {
+    "id": "HB01-046-UC-01",
+    "name": "怪鳥 ヒザマ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-046",
+    "power": 5000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトにブーストを使っているなら、パワーは+2000される。",
+    "illustrator": "ROBUJA",
+    "face": {
+      "front": {
+        "name": "怪鳥 ヒザマ",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-046-uc-01.webp"
+      }
+    }
+  },
+  "HB01-047-UC-01": {
+    "id": "HB01-047-UC-01",
+    "name": "ショウと夜に翔ける不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-047",
+    "power": 7000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトが出たとき、自分の手札からコスト7以上のホロビトを1体見せてもよい。そうしたなら、カードを1枚引く。",
+    "illustrator": "Akira Fujikawa",
+    "face": {
+      "front": {
+        "name": "ショウと夜に翔ける不死火",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-047-uc-01.webp"
+      }
+    }
+  },
+  "HB01-048-UC-01": {
+    "id": "HB01-048-UC-01",
+    "name": "ポツンといっけん爺",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-048",
+    "power": 8000,
+    "boost": true,
+    "tribe": "タイジュ・ブラッド",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトはバトル中、ワザやブーストでパワーが上がらない。",
+    "illustrator": "coroxpiyo",
+    "face": {
+      "front": {
+        "name": "ポツンといっけん爺",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-048-uc-01.webp"
+      }
+    }
+  },
+  "HB01-049-UC-01": {
+    "id": "HB01-049-UC-01",
+    "name": "ふわふわイロハとぷかぷかジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-049",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Over Trigger",
+    "feature": "●自分の第1～2ラインにいるホロビトの下にあるカードの合計が3枚以上なら、このホロビトのパワーを+3000し、ダブルダメージを得る。\n（ダブルダメージを持つホロビトがバトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "nakazaki tow",
+    "face": {
+      "front": {
+        "name": "ふわふわイロハとぷかぷかジャンボ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-049-uc-01.webp"
+      }
+    }
+  },
+  "HB01-049-DR-01": {
+    "id": "HB01-049-DR-01",
+    "name": "ふわふわイロハとぷかぷかジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-049",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Over Trigger",
+    "feature": "●自分の第1～2ラインにいるホロビトの下にあるカードの合計が3枚以上なら、このホロビトのパワーを+3000し、ダブルダメージを得る。\n（ダブルダメージを持つホロビトがバトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "romiy",
+    "face": {
+      "front": {
+        "name": "ふわふわイロハとぷかぷかジャンボ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-049-dr-01.webp"
+      }
+    }
+  },
+  "HB01-050-UC-01": {
+    "id": "HB01-050-UC-01",
+    "name": "喰合 タヴェール",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 6,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-050",
+    "power": 7500,
+    "boost": true,
+    "tribe": "ビックリ・クラブ",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "I☆LA",
+    "face": {
+      "front": {
+        "name": "喰合 タヴェール",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-050-uc-01.webp"
+      }
+    }
+  },
+  "HB01-051-UC-01": {
+    "id": "HB01-051-UC-01",
+    "name": "バクヘリコン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-051",
+    "power": 10000,
+    "boost": true,
+    "tribe": "ユルフワ・クラブ",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトがバトルに勝ったとき、カードを1枚引く。",
+    "illustrator": "haisiro",
+    "face": {
+      "front": {
+        "name": "バクヘリコン",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-051-uc-01.webp"
+      }
+    }
+  },
+  "HB01-052-UC-01": {
+    "id": "HB01-052-UC-01",
+    "name": "勝ちにいくぞ…！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-052",
+    "power": 2000,
+    "boost": false,
+    "keyword": "Resonance",
+    "trigger": "Draw Trigger",
+    "feature": "●共鳴：スザク（このワザを使うホロビトの種族がスザクであるなら、このワザは以下の効果を得る）\n　・このワザを使ったとき、相手は手札を1枚選んで捨てる。\n　・このバトルに勝ったとき、自分はカードを1枚引く。",
+    "illustrator": "taku",
+    "face": {
+      "front": {
+        "name": "勝ちにいくぞ…！",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-052-uc-01.webp"
+      }
+    }
+  },
+  "HB01-053-UC-01": {
+    "id": "HB01-053-UC-01",
+    "name": "びゅーんといくジャン！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-053",
+    "power": 2000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●自分がこのラウンド先手なら、このワザのパワーを+2000する。",
+    "illustrator": "yashio",
+    "face": {
+      "front": {
+        "name": "びゅーんといくジャン！",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-053-uc-01.webp"
+      }
+    }
+  },
+  "HB01-054-R-01": {
+    "id": "HB01-054-R-01",
+    "name": "稀有ケゲン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-054",
+    "power": 3000,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Entry Trigger",
+    "feature": "●2バリア（バトルに負けたとき、プレイヤーが受けるダメージは2減る）",
+    "illustrator": "Sekimellow",
+    "face": {
+      "front": {
+        "name": "稀有ケゲン",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-054-r-01.webp"
+      }
+    }
+  },
+  "HB01-055-R-01": {
+    "id": "HB01-055-R-01",
+    "name": "ビュンドローン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-055",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがラインに出ているなら、コストは1小さくなる。\n●このホロビトが《ビュンドローン》以外にオーバービートされたとき、カードを1枚引く。",
+    "illustrator": "Osam",
+    "face": {
+      "front": {
+        "name": "ビュンドローン",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-055-r-01.webp"
+      }
+    }
+  },
+  "HB01-056-R-01": {
+    "id": "HB01-056-R-01",
+    "name": "怪鳥 シビロ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-056",
+    "power": 5000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトはワザを使えない。\n●相手のホロビトがワザを使っているなら、このホロビトのパワーを+4000する。",
+    "illustrator": "YUKI",
+    "face": {
+      "front": {
+        "name": "怪鳥 シビロ",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-056-r-01.webp"
+      }
+    }
+  },
+  "HB01-057-R-01": {
+    "id": "HB01-057-R-01",
+    "name": "滅獣 不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-057",
+    "power": 7000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがラインに出ているなら、コストは1大きくなる。",
+    "illustrator": "YUKIHIRO MARUO",
+    "face": {
+      "front": {
+        "name": "滅獣 不死火",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-057-r-01.webp"
+      }
+    }
+  },
+  "HB01-058-R-01": {
+    "id": "HB01-058-R-01",
+    "name": "おぼろ車",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-058",
+    "power": 6000,
+    "boost": false,
+    "tribe": "バクソウ・クラブ",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトが出たとき、相手のホロビトを1体選び、このホロビトの正面のホロビトと入れ替えてもよい。\n（正面にホロビトがいないなら、入れ替えることはできない）",
+    "illustrator": "Nanami Lusia",
+    "face": {
+      "front": {
+        "name": "おぼろ車",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-058-r-01.webp"
+      }
+    }
+  },
+  "HB01-059-R-01": {
+    "id": "HB01-059-R-01",
+    "name": "イロハと巡航ジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 6,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-059",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●自分の第1～2ラインにいるホロビトの下にあるカードの合計が5枚以上なら、パワーを+5000する。",
+    "illustrator": "nakazaki tow",
+    "face": {
+      "front": {
+        "name": "イロハと巡航ジャンボ",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-059-r-01.webp"
+      }
+    }
+  },
+  "HB01-060-R-01": {
+    "id": "HB01-060-R-01",
+    "name": "森合 フルツキ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-060",
+    "power": 9000,
+    "boost": true,
+    "tribe": "タイジュ・ブラッド",
+    "trigger": "Last Over Trigger",
+    "feature": "●このホロビトと正面のホロビトはバトル中、ワザやブーストでパワーが上がらない。",
+    "illustrator": "Moopic",
+    "face": {
+      "front": {
+        "name": "森合 フルツキ",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-060-r-01.webp"
+      }
+    }
+  },
+  "HB01-061-R-01": {
+    "id": "HB01-061-R-01",
+    "name": "樹霊千年 巨ダマ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 10,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-061",
+    "power": 18000,
+    "boost": false,
+    "tribe": "タイジュ・ブラッド",
+    "trigger": "Last Over Trigger",
+    "illustrator": "YUKIHIRO MARUO",
+    "face": {
+      "front": {
+        "name": "樹霊千年 巨ダマ",
+        "type": "Holobito",
+        "cost": 10,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-061-r-01.webp"
+      }
+    }
+  },
+  "HB01-062-R-01": {
+    "id": "HB01-062-R-01",
+    "name": "合術 不死の永炎！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-062",
+    "power": 4000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは、下にあるカードが2枚以上のホロビトのみ使える。\n●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "taku",
+    "face": {
+      "front": {
+        "name": "合術 不死の永炎！",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-062-r-01.webp"
+      }
+    }
+  },
+  "HB01-062-DR-01": {
+    "id": "HB01-062-DR-01",
+    "name": "合術 不死の永炎！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-062",
+    "power": 4000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは、下にあるカードが2枚以上のホロビトのみ使える。\n●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "KOTA NAKATSUBO",
+    "face": {
+      "front": {
+        "name": "合術 不死の永炎！",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-062-dr-01.webp"
+      }
+    }
+  },
+  "HB01-063-SR-01": {
+    "id": "HB01-063-SR-01",
+    "name": "一撃先戦！ 不死火＆ショウ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-063",
+    "power": 7000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトがバトルに勝ったとき、第1～2ラインにいるなら、相手は手札を1枚選んで捨てる。",
+    "illustrator": "Tada",
+    "face": {
+      "front": {
+        "name": "一撃先戦！ 不死火＆ショウ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-063-sr-01.webp"
+      }
+    }
+  },
+  "HB01-063-DR-01": {
+    "id": "HB01-063-DR-01",
+    "name": "一撃先戦！ 不死火＆ショウ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-063",
+    "power": 7000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトがバトルに勝ったとき、第1～2ラインにいるなら、相手は手札を1枚選んで捨てる。",
+    "illustrator": "EZOI",
+    "face": {
+      "front": {
+        "name": "一撃先戦！ 不死火＆ショウ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-063-dr-01.webp"
+      }
+    }
+  },
+  "HB01-064-SR-01": {
+    "id": "HB01-064-SR-01",
+    "name": "滅獣 ジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-064",
+    "power": 12000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトがバトルに勝ったとき、カードを3枚引く。",
+    "illustrator": "Naoki Eguchi",
+    "face": {
+      "front": {
+        "name": "滅獣 ジャンボ",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-064-sr-01.webp"
+      }
+    }
+  },
+  "HB01-064-DR-01": {
+    "id": "HB01-064-DR-01",
+    "name": "滅獣 ジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-064",
+    "power": 12000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトがバトルに勝ったとき、カードを3枚引く。",
+    "illustrator": "Nekobayashi",
+    "face": {
+      "front": {
+        "name": "滅獣 ジャンボ",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-064-dr-01.webp"
+      }
+    }
+  },
+  "HB01-065-SR-01": {
+    "id": "HB01-065-SR-01",
+    "name": "霊炎合身 不死火翔",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-065",
+    "power": 14000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトがバトルに勝ったとき、このホロビトのパワーが正面のホロビトの2倍以上なら、正面のホロビトを破壊する。\n（バリアや負けたときの効果は発動しない）",
+    "illustrator": "Tada",
+    "face": {
+      "front": {
+        "name": "霊炎合身 不死火翔",
+        "type": "Holobito",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-065-sr-01.webp"
+      }
+    }
+  },
+  "HB01-065-DR-01": {
+    "id": "HB01-065-DR-01",
+    "name": "霊炎合身 不死火翔",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-065",
+    "power": 14000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトがバトルに勝ったとき、このホロビトのパワーが正面のホロビトの2倍以上なら、正面のホロビトを破壊する。\n（バリアや負けたときの効果は発動しない）",
+    "illustrator": "EZOI",
+    "face": {
+      "front": {
+        "name": "霊炎合身 不死火翔",
+        "type": "Holobito",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-065-dr-01.webp"
+      }
+    }
+  },
+  "HB01-066-SR-01": {
+    "id": "HB01-066-SR-01",
+    "name": "首領デカケゲン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-066",
+    "power": 10000,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Last Over Trigger",
+    "feature": "●2バリア（バトルに負けたとき、プレイヤーが受けるダメージは2減る）\n●このホロビトがバトルに負けたとき、このホロビトのバリアで減らす分のダメージを相手プレイヤーに与える。ただし、この効果でトドメは刺せない",
+    "illustrator": "GOSSAN",
+    "face": {
+      "front": {
+        "name": "首領デカケゲン",
+        "type": "Holobito",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-066-sr-01.webp"
+      }
+    }
+  },
+  "HB01-066-DR-01": {
+    "id": "HB01-066-DR-01",
+    "name": "首領デカケゲン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-066",
+    "power": 10000,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Last Over Trigger",
+    "feature": "●2バリア（バトルに負けたとき、プレイヤーが受けるダメージは2減る）\n●このホロビトがバトルに負けたとき、このホロビトのバリアで減らす分のダメージを相手プレイヤーに与える。ただし、この効果でトドメは刺せない",
+    "illustrator": "YOSHIYA",
+    "face": {
+      "front": {
+        "name": "首領デカケゲン",
+        "type": "Holobito",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-066-dr-01.webp"
+      }
+    }
+  },
+  "HB01-067-C-01": {
+    "id": "HB01-067-C-01",
+    "name": "くろぼ〜ちゃん",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-067",
+    "power": 2000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがワザを使っているなら、パワーを+3000する。",
+    "illustrator": "rikose",
+    "face": {
+      "front": {
+        "name": "くろぼ〜ちゃん",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-067-c-01.webp"
+      }
+    }
+  },
+  "HB01-067-DR-01": {
+    "id": "HB01-067-DR-01",
+    "name": "くろぼ〜ちゃん",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-067",
+    "power": 2000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがワザを使っているなら、パワーを+3000する。",
+    "illustrator": "buchi",
+    "face": {
+      "front": {
+        "name": "くろぼ〜ちゃん",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-067-dr-01.webp"
+      }
+    }
+  },
+  "HB01-068-C-01": {
+    "id": "HB01-068-C-01",
+    "name": "天狗 九郎坊",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-068",
+    "power": 3000,
+    "boost": true,
+    "tribe": "ジャスティス・オーダー",
+    "trigger": "Entry Trigger",
+    "illustrator": "Fujimori",
+    "face": {
+      "front": {
+        "name": "天狗 九郎坊",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-068-c-01.webp"
+      }
+    }
+  },
+  "HB01-069-C-01": {
+    "id": "HB01-069-C-01",
+    "name": "とうふ小僧",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-069",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ギルド・オーダー",
+    "trigger": "Entry Trigger",
+    "illustrator": "YOSHIYA",
+    "face": {
+      "front": {
+        "name": "とうふ小僧",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-069-c-01.webp"
+      }
+    }
+  },
+  "HB01-070-C-01": {
+    "id": "HB01-070-C-01",
+    "name": "脅し屋多田と三本ダタラ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-070",
+    "power": 2000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがダウンしたとき、自分のエナを1枚選び、未使用にする。",
+    "illustrator": "Tomokazu Hara",
+    "face": {
+      "front": {
+        "name": "脅し屋多田と三本ダタラ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-070-c-01.webp"
+      }
+    }
+  },
+  "HB01-071-C-01": {
+    "id": "HB01-071-C-01",
+    "name": "ガシャのすけ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-071",
+    "power": 2000,
+    "boost": false,
+    "tribe": "ドクロ・ギャング",
+    "trigger": "Entry Trigger",
+    "feature": "●自分のエナゾーンにカードが8枚以上あるなら、このホロビトのパワーを+4000する。",
+    "illustrator": "yumo",
+    "face": {
+      "front": {
+        "name": "ガシャのすけ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-071-c-01.webp"
+      }
+    }
+  },
+  "HB01-072-C-01": {
+    "id": "HB01-072-C-01",
+    "name": "孤独ノ風",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-072",
+    "power": 5000,
+    "boost": false,
+    "tribe": "ナガレモノ",
+    "trigger": "Entry Trigger",
+    "illustrator": "hippo",
+    "face": {
+      "front": {
+        "name": "孤独ノ風",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-072-c-01.webp"
+      }
+    }
+  },
+  "HB01-073-C-01": {
+    "id": "HB01-073-C-01",
+    "name": "義勇のベニテン",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-073",
+    "power": 5000,
+    "boost": true,
+    "tribe": "ジャスティス・オーダー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "YOSHIDA Kiyotaka",
+    "face": {
+      "front": {
+        "name": "義勇のベニテン",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-073-c-01.webp"
+      }
+    }
+  },
+  "HB01-074-C-01": {
+    "id": "HB01-074-C-01",
+    "name": "骸のガシャ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-074",
+    "power": 7000,
+    "boost": true,
+    "tribe": "ドクロ・ギャング",
+    "trigger": "Over Trigger",
+    "illustrator": "yumo",
+    "face": {
+      "front": {
+        "name": "骸のガシャ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-074-c-01.webp"
+      }
+    }
+  },
+  "HB01-075-C-01": {
+    "id": "HB01-075-C-01",
+    "name": "石の上にも三念",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 1,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-075",
+    "power": 2000,
+    "boost": false,
+    "keyword": "Ena-yomi",
+    "trigger": "Draw Trigger",
+    "feature": "●エナ詠み青3（自分のエナゾーンに青のエナが3枚以上あるなら、このワザは以下の効果を得る）\n　・このバトルが終わったとき、自分のエナを1枚選び、未使用にする。",
+    "illustrator": "suranaki",
+    "face": {
+      "front": {
+        "name": "石の上にも三念",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-075-c-01.webp"
+      }
+    }
+  },
+  "HB01-076-C-01": {
+    "id": "HB01-076-C-01",
+    "name": "無知の視",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 1,
+    "rarity": "C",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-076",
+    "power": 3000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは下にあるカードが1枚以下のホロビトのみ使える。",
+    "illustrator": "CANO",
+    "face": {
+      "front": {
+        "name": "無知の視",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-076-c-01.webp"
+      }
+    }
+  },
+  "HB01-077-UC-01": {
+    "id": "HB01-077-UC-01",
+    "name": "山姥ヤマヒメ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-077",
+    "power": 4500,
+    "boost": false,
+    "tribe": "チャラ・オーダー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、このバトルで使われていたコスト1のワザを1枚選ぶ。そのカードを次のラインに使ってもよい。\n（ホロビトがいないラインではワザは使えない）",
+    "illustrator": "I☆LA",
+    "face": {
+      "front": {
+        "name": "山姥ヤマヒメ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-077-uc-01.webp"
+      }
+    }
+  },
+  "HB01-078-UC-01": {
+    "id": "HB01-078-UC-01",
+    "name": "ナグレと用心棒ヘッドブル",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-078",
+    "power": 3000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、手札からコスト2以上のワザ1枚を選び、捨ててもよい。そうしたなら、自分のエナを1枚選び、未使用にする。",
+    "illustrator": "Souya Azuma",
+    "face": {
+      "front": {
+        "name": "ナグレと用心棒ヘッドブル",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-078-uc-01.webp"
+      }
+    }
+  },
+  "HB01-078-DR-01": {
+    "id": "HB01-078-DR-01",
+    "name": "ナグレと用心棒ヘッドブル",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-078",
+    "power": 3000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、手札からコスト2以上のワザ1枚を選び、捨ててもよい。そうしたなら、自分のエナを1枚選び、未使用にする。",
+    "illustrator": "KATEKARI YUUSUKE",
+    "face": {
+      "front": {
+        "name": "ナグレと用心棒ヘッドブル",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-078-dr-01.webp"
+      }
+    }
+  },
+  "HB01-079-UC-01": {
+    "id": "HB01-079-UC-01",
+    "name": "義彦と正義の九郎坊",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-079",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み青3（自分のエナゾーンに青のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・ワザを使っていれば、パワーを+3000し、ダブルダメージを得る。\n（ダブルダメージを持つホロビトがバトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "KARUTA SHIKI",
+    "face": {
+      "front": {
+        "name": "義彦と正義の九郎坊",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-079-uc-01.webp"
+      }
+    }
+  },
+  "HB01-080-UC-01": {
+    "id": "HB01-080-UC-01",
+    "name": "カワエロ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-080",
+    "power": 4000,
+    "boost": true,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがダウンしているなら、このホロビトのパワーを+3000する。",
+    "illustrator": "Rumie",
+    "face": {
+      "front": {
+        "name": "カワエロ",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-080-uc-01.webp"
+      }
+    }
+  },
+  "HB01-081-UC-01": {
+    "id": "HB01-081-UC-01",
+    "name": "カッパダイバー",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-081",
+    "power": 7500,
+    "boost": true,
+    "tribe": "ウラロジ・ギャング",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "Taro Yamazaki",
+    "face": {
+      "front": {
+        "name": "カッパダイバー",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-081-uc-01.webp"
+      }
+    }
+  },
+  "HB01-082-UC-01": {
+    "id": "HB01-082-UC-01",
+    "name": "闘牛合 ヘッドナグル",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-082",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、お互いのプレイヤーは自分の墓地のワザを1枚選び、エナに使用済みで置いてもよい。",
+    "illustrator": "Souya Azuma",
+    "face": {
+      "front": {
+        "name": "闘牛合 ヘッドナグル",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-082-uc-01.webp"
+      }
+    }
+  },
+  "HB01-083-UC-01": {
+    "id": "HB01-083-UC-01",
+    "name": "三味線鬼灯とMCガシャ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 7,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-083",
+    "power": 9000,
+    "boost": true,
+    "tribe": "ドクロ・ギャング",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "Norikatsu Miyoshi",
+    "face": {
+      "front": {
+        "name": "三味線鬼灯とMCガシャ",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-083-uc-01.webp"
+      }
+    }
+  },
+  "HB01-084-UC-01": {
+    "id": "HB01-084-UC-01",
+    "name": "義を持って天を統べる",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-084",
+    "power": 2000,
+    "boost": false,
+    "keyword": "Resonance",
+    "trigger": "Draw Trigger",
+    "feature": "●共鳴：ジャスティス（このワザを使うホロビトの種族がジャスティスであるなら、このワザは以下の効果を得る）\n・このワザのパワーを+3000する。",
+    "illustrator": "Nagi-nyan",
+    "face": {
+      "front": {
+        "name": "義を持って天を統べる",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-084-uc-01.webp"
+      }
+    }
+  },
+  "HB01-085-UC-01": {
+    "id": "HB01-085-UC-01",
+    "name": "魂のまにまに",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-085",
+    "power": 4000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザを使ったとき、各プレイヤーは山札の一番上のカードをエナゾーンに使用済みで置く。",
+    "illustrator": "OZUNOYUMI",
+    "face": {
+      "front": {
+        "name": "魂のまにまに",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-085-uc-01.webp"
+      }
+    }
+  },
+  "HB01-086-UC-01": {
+    "id": "HB01-086-UC-01",
+    "name": "あさき夢見じ 世はyo！ yo！",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-086",
+    "power": 7000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "illustrator": "Norikatsu Miyoshi",
+    "face": {
+      "front": {
+        "name": "あさき夢見じ 世はyo！ yo！",
+        "type": "Waza",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-086-uc-01.webp"
+      }
+    }
+  },
+  "HB01-087-R-01": {
+    "id": "HB01-087-R-01",
+    "name": "豆腐ナイスガイ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-087",
+    "power": 4000,
+    "boost": true,
+    "tribe": "ギルド・オーダー",
+    "keyword": "Ena-yomi",
+    "trigger": "Entry Trigger",
+    "feature": "●エナ詠み青3（自分のエナゾーンに青のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトが出たとき、自分の山札の上から5枚を見る。その中からワザを1枚見せ、手札に加えてもよい。残りを好きな順で山札の一番下に置く。",
+    "illustrator": "YOSHIYA",
+    "face": {
+      "front": {
+        "name": "豆腐ナイスガイ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-087-r-01.webp"
+      }
+    }
+  },
+  "HB01-088-R-01": {
+    "id": "HB01-088-R-01",
+    "name": "来たる！ 恐怖の蜘蛛",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-088",
+    "power": 3000,
+    "boost": false,
+    "tribe": "スパイダー・ギャング",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが破壊されたとき、このカードを墓地に置くかわりに自分のエナに未使用で置く。",
+    "illustrator": "Ishikawa Kenta",
+    "face": {
+      "front": {
+        "name": "来たる！ 恐怖の蜘蛛",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-088-r-01.webp"
+      }
+    }
+  },
+  "HB01-089-R-01": {
+    "id": "HB01-089-R-01",
+    "name": "斬ムクロ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 4,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-089",
+    "power": 2000,
+    "boost": false,
+    "tribe": "ドクロ・ギャング",
+    "trigger": "Over Trigger",
+    "feature": "●手札が6枚以上あるなら、このホロビトのパワーを+6000する。",
+    "illustrator": "madöwl",
+    "face": {
+      "front": {
+        "name": "斬ムクロ",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-089-r-01.webp"
+      }
+    }
+  },
+  "HB01-090-R-01": {
+    "id": "HB01-090-R-01",
+    "name": "船長イクチ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-090",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトが出たとき、各プレイヤーは山札の一番上のカードをエナゾーンに使用済みで置く。",
+    "illustrator": "ShimaShima",
+    "face": {
+      "front": {
+        "name": "船長イクチ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-090-r-01.webp"
+      }
+    }
+  },
+  "HB01-091-R-01": {
+    "id": "HB01-091-R-01",
+    "name": "滅獣 九郎坊",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-091",
+    "power": 7000,
+    "boost": true,
+    "tribe": "ジャスティス・オーダー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトが出たとき、両隣のラインにいる自分のホロビト1体を選び、位置を入れ替えてもよい。",
+    "illustrator": "Shusuke Unno",
+    "face": {
+      "front": {
+        "name": "滅獣 九郎坊",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-091-r-01.webp"
+      }
+    }
+  },
+  "HB01-092-R-01": {
+    "id": "HB01-092-R-01",
+    "name": "脅合 三本タダタラ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-092",
+    "power": 8000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがダウンしたとき、このカードを手札に戻す。\n（この下にあるカードはラインに残る）",
+    "illustrator": "Tomokazu Hara",
+    "face": {
+      "front": {
+        "name": "脅合 三本タダタラ",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-092-r-01.webp"
+      }
+    }
+  },
+  "HB01-093-R-01": {
+    "id": "HB01-093-R-01",
+    "name": "八参る 鬼灯＆ガシャ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-093",
+    "power": 10000,
+    "boost": true,
+    "tribe": "ドクロ・ギャング",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトのバトルが始まったとき、自分のエナにあるコスト3以下の青のワザ1枚を選び、使用してもよい。\n（コストは支払わない）",
+    "illustrator": "Norikatsu Miyoshi",
+    "face": {
+      "front": {
+        "name": "八参る 鬼灯＆ガシャ",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-093-r-01.webp"
+      }
+    }
+  },
+  "HB01-094-R-01": {
+    "id": "HB01-094-R-01",
+    "name": "合術 うつし身の撃",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-094",
+    "power": 4000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは自分がこのバトルで他のワザを使っているときのみ使える。\n●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "Nagi-nyan",
+    "face": {
+      "front": {
+        "name": "合術 うつし身の撃",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-094-r-01.webp"
+      }
+    }
+  },
+  "HB01-094-DR-01": {
+    "id": "HB01-094-DR-01",
+    "name": "合術 うつし身の撃",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-094",
+    "power": 4000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザは自分がこのバトルで他のワザを使っているときのみ使える。\n●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "Minoru",
+    "face": {
+      "front": {
+        "name": "合術 うつし身の撃",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-094-dr-01.webp"
+      }
+    }
+  },
+  "HB01-095-R-01": {
+    "id": "HB01-095-R-01",
+    "name": "行くも・ザ・ループ",
+    "type": "Waza",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "R",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-095",
+    "power": 3000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●バトルが終わったとき、このカードを手札に戻す。",
+    "illustrator": "Hiyori",
+    "face": {
+      "front": {
+        "name": "行くも・ザ・ループ",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-095-r-01.webp"
+      }
+    }
+  },
+  "HB01-096-SR-01": {
+    "id": "HB01-096-SR-01",
+    "name": "秩序の守り手 九郎坊＆義彦",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 5,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-096",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "trigger": "Over Trigger",
+    "feature": "●自分が召喚フェイズを終えたとき、墓地にあるコスト1のワザを1枚選び、それを手札に戻してもよい。",
+    "illustrator": "SHIRAI HIDEMI",
+    "face": {
+      "front": {
+        "name": "秩序の守り手 九郎坊＆義彦",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-096-sr-01.webp"
+      }
+    }
+  },
+  "HB01-096-DR-01": {
+    "id": "HB01-096-DR-01",
+    "name": "秩序の守り手 九郎坊＆義彦",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 5,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-096",
+    "power": 7000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "trigger": "Over Trigger",
+    "feature": "●自分が召喚フェイズを終えたとき、墓地にあるコスト1のワザを1枚選び、それを手札に戻してもよい。",
+    "illustrator": "KATEKARI YUUSUKE",
+    "face": {
+      "front": {
+        "name": "秩序の守り手 九郎坊＆義彦",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-096-dr-01.webp"
+      }
+    }
+  },
+  "HB01-097-SR-01": {
+    "id": "HB01-097-SR-01",
+    "name": "正義合身 義郎坊",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-097",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトが2つ目のワザを使ったとき、正面のホロビトのコストが8以下なら、その一番上のカードを手札に戻す。",
+    "illustrator": "chiam",
+    "face": {
+      "front": {
+        "name": "正義合身 義郎坊",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-097-sr-01.webp"
+      }
+    }
+  },
+  "HB01-097-DR-01": {
+    "id": "HB01-097-DR-01",
+    "name": "正義合身 義郎坊",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-097",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトが2つ目のワザを使ったとき、正面のホロビトのコストが8以下なら、その一番上のカードを手札に戻す。",
+    "illustrator": "KARUTA SHIKI",
+    "face": {
+      "front": {
+        "name": "正義合身 義郎坊",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-097-dr-01.webp"
+      }
+    }
+  },
+  "HB01-098-SR-01": {
+    "id": "HB01-098-SR-01",
+    "name": "大河童 ガタラ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 7,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-098",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Last Over Trigger",
+    "feature": "●自分にダウンしているハートがあるなら、このホロビトのパワーを+4000する。\n●このホロビトがバトルに勝ったとき、ダウンしているハートがあるなら、回復する。そうでなければ、山札の上から1枚をダウンさせてハートに加える。",
+    "illustrator": "Taro Yamazaki",
+    "face": {
+      "front": {
+        "name": "大河童 ガタラ",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-098-sr-01.webp"
+      }
+    }
+  },
+  "HB01-098-DR-01": {
+    "id": "HB01-098-DR-01",
+    "name": "大河童 ガタラ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 7,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-098",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ウラロジ・ギャング",
+    "trigger": "Last Over Trigger",
+    "feature": "●自分にダウンしているハートがあるなら、このホロビトのパワーを+4000する。\n●このホロビトがバトルに勝ったとき、ダウンしているハートがあるなら、回復する。そうでなければ、山札の上から1枚をダウンさせてハートに加える。",
+    "illustrator": "Sakyu",
+    "face": {
+      "front": {
+        "name": "大河童 ガタラ",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-098-dr-01.webp"
+      }
+    }
+  },
+  "HB01-099-SR-01": {
+    "id": "HB01-099-SR-01",
+    "name": "滅獣 ガシャドクロ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-099",
+    "power": 8000,
+    "boost": true,
+    "tribe": "ドクロ・ギャング",
+    "trigger": "Last Over Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、自分のエナを全て未使用にする。その後、自分のエナを4枚選び、それを使用済みにする。",
+    "illustrator": "KIRITADA",
+    "face": {
+      "front": {
+        "name": "滅獣 ガシャドクロ",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-099-sr-01.webp"
+      }
+    }
+  },
+  "HB01-099-DR-01": {
+    "id": "HB01-099-DR-01",
+    "name": "滅獣 ガシャドクロ",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 8,
+    "rarity": "DR",
+    "package": [
+      "HB-BP01"
+    ],
+    "cardNumber": "HB01-099",
+    "power": 8000,
+    "boost": true,
+    "tribe": "ドクロ・ギャング",
+    "trigger": "Last Over Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、自分のエナを全て未使用にする。その後、自分のエナを4枚選び、それを使用済みにする。",
+    "illustrator": "gozz",
+    "face": {
+      "front": {
+        "name": "滅獣 ガシャドクロ",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hb01-099-dr-01.webp"
+      }
+    }
+  },
+  "HD01-001-C-01": {
+    "id": "HD01-001-C-01",
+    "name": "レオまる",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-001",
+    "power": 2000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、カードを1枚引く。",
+    "illustrator": "O-G Osahune",
+    "face": {
+      "front": {
+        "name": "レオまる",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-001-c-01.webp"
+      }
+    }
+  },
+  "HD01-002-C-01": {
+    "id": "HD01-002-C-01",
+    "name": "雷獣 レオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-002",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "雷獣 レオ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-002-c-01.webp"
+      }
+    }
+  },
+  "HD01-003-C-01": {
+    "id": "HD01-003-C-01",
+    "name": "雷徒キュウソと内野ジロウ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-003",
+    "power": 3000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "Naoki Eguchi",
+    "face": {
+      "front": {
+        "name": "雷徒キュウソと内野ジロウ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-003-c-01.webp"
+      }
+    }
+  },
+  "HD01-004-C-01": {
+    "id": "HD01-004-C-01",
+    "name": "かたきらうわ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-004",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ナガレモノ",
+    "trigger": "Entry Trigger",
+    "illustrator": "Pannya",
+    "face": {
+      "front": {
+        "name": "かたきらうわ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-004-c-01.webp"
+      }
+    }
+  },
+  "HD01-005-C-01": {
+    "id": "HD01-005-C-01",
+    "name": "疾風のカマイチ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-005",
+    "power": 3000,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが第2～5ラインにいるなら、このホロビトのパワーを+2500する。",
+    "illustrator": "UKAI bakuinu",
+    "face": {
+      "front": {
+        "name": "疾風のカマイチ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-005-c-01.webp"
+      }
+    }
+  },
+  "HD01-006-C-01": {
+    "id": "HD01-006-C-01",
+    "name": "幻癒師 七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-006",
+    "power": 4000,
+    "boost": true,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、自分のホロビトを1体選び、回復する。",
+    "illustrator": "IRIA",
+    "face": {
+      "front": {
+        "name": "幻癒師 七尾",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-006-c-01.webp"
+      }
+    }
+  },
+  "HD01-007-C-01": {
+    "id": "HD01-007-C-01",
+    "name": "Jr.赤えい",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-007",
+    "power": 4000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトは破壊されない。\n（ダウンしているこのホロビトがダメージを受けるとき、ダウンしたままラインに残る）",
+    "illustrator": "Shusuke Unno",
+    "face": {
+      "front": {
+        "name": "Jr.赤えい",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-007-c-01.webp"
+      }
+    }
+  },
+  "HD01-008-C-01": {
+    "id": "HD01-008-C-01",
+    "name": "電光攻火",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-008",
+    "power": 5000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "illustrator": "Ochika",
+    "face": {
+      "front": {
+        "name": "電光攻火",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-008-c-01.webp"
+      }
+    }
+  },
+  "HD01-009-UC-01": {
+    "id": "HD01-009-UC-01",
+    "name": "怪機 センプウジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "UC",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-009",
+    "power": 2500,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがバトルに勝ったとき、第2～5ラインにいるなら、カードを1枚引く。",
+    "illustrator": "Ragi",
+    "face": {
+      "front": {
+        "name": "怪機 センプウジン",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-009-uc-01.webp"
+      }
+    }
+  },
+  "HD01-010-UC-01": {
+    "id": "HD01-010-UC-01",
+    "name": "ウキウキ学生 アカナー",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-010",
+    "power": 4000,
+    "boost": true,
+    "tribe": "コンガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが出たとき、下にカードがないなら、カードを1枚引く。",
+    "illustrator": "Fukuyokana Kuma",
+    "face": {
+      "front": {
+        "name": "ウキウキ学生 アカナー",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-010-uc-01.webp"
+      }
+    }
+  },
+  "HD01-011-UC-01": {
+    "id": "HD01-011-UC-01",
+    "name": "ジンと奮雷するレオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-011",
+    "power": 4500,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み赤3（自分のエナゾーンに赤のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・ダウンしていないなら、パワーを+3000する。",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "ジンと奮雷するレオ",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-011-uc-01.webp"
+      }
+    }
+  },
+  "HD01-012-UC-01": {
+    "id": "HD01-012-UC-01",
+    "name": "鼠合 キュウジロウ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-012",
+    "power": 6000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがブーストを使っているなら、このホロビトのパワーは+3000される。\n（2回以上ブーストしていても、この効果は1度しか発動しない）",
+    "illustrator": "Naoki Eguchi",
+    "face": {
+      "front": {
+        "name": "鼠合 キュウジロウ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-012-uc-01.webp"
+      }
+    }
+  },
+  "HD01-013-UC-01": {
+    "id": "HD01-013-UC-01",
+    "name": "以心電心",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-013",
+    "power": 2000,
+    "boost": false,
+    "keyword": "Resonance",
+    "trigger": "Draw Trigger",
+    "feature": "●共鳴：ライガ（このワザを使うホロビトの種族がライガであるなら、このワザは以下の効果を得る）\n　・このワザを使ったとき、カードを1枚引く。\n　・このワザのパワーを+1000する。",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "以心電心",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-013-uc-01.webp"
+      }
+    }
+  },
+  "HD01-014-R-01": {
+    "id": "HD01-014-R-01",
+    "name": "ヒナタと七尾",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "R",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-014",
+    "power": 5000,
+    "boost": true,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトのバトルが終わったとき、自分のホロビトを1体選び、回復する。",
+    "illustrator": "tetsuko",
+    "face": {
+      "front": {
+        "name": "ヒナタと七尾",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-014-r-01.webp"
+      }
+    }
+  },
+  "HD01-015-R-01": {
+    "id": "HD01-015-R-01",
+    "name": "臨戦！ レオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-015",
+    "power": 6000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Over Trigger",
+    "feature": "●自分のホロビトが4体以上ラインに出ているなら、このホロビトのパワーを+4000する。",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "臨戦！ レオ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-015-r-01.webp"
+      }
+    }
+  },
+  "HD01-016-R-01": {
+    "id": "HD01-016-R-01",
+    "name": "雷獣おかん",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-016",
+    "power": 12000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "Mamezawa",
+    "face": {
+      "front": {
+        "name": "雷獣おかん",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-016-r-01.webp"
+      }
+    }
+  },
+  "HD01-017-SR-01": {
+    "id": "HD01-017-SR-01",
+    "name": "雷合 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 7,
+    "rarity": "SR",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-017",
+    "power": 11000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトは破壊されない。\n（ダウンしているこのホロビトがダメージを受けるとき、ダウンしたままラインに残る）",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "雷合 レオジン",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-017-sr-01.webp"
+      }
+    }
+  },
+  "HD01-017-DR-01": {
+    "id": "HD01-017-DR-01",
+    "name": "雷合 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 7,
+    "rarity": "DR",
+    "package": [
+      "HB-SD01"
+    ],
+    "cardNumber": "HD01-017",
+    "power": 11000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトは破壊されない。\n（ダウンしているこのホロビトがダメージを受けるとき、ダウンしたままラインに残る）",
+    "illustrator": "KARUTA SHIKI",
+    "face": {
+      "front": {
+        "name": "雷合 レオジン",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd01-017-dr-01.webp"
+      }
+    }
+  },
+  "HD02-001-C-01": {
+    "id": "HD02-001-C-01",
+    "name": "しなずいさま",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-001",
+    "power": 2000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがラインに出ているなら、コストは1大きくなる。",
+    "illustrator": "kodama",
+    "face": {
+      "front": {
+        "name": "しなずいさま",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-001-c-01.webp"
+      }
+    }
+  },
+  "HD02-002-C-01": {
+    "id": "HD02-002-C-01",
+    "name": "けうけげん",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-002",
+    "power": 2000,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Entry Trigger",
+    "feature": "●1バリア（バトルに負けたとき、プレイヤーが受けるダメージは1減る）",
+    "illustrator": "O-G Osahune",
+    "face": {
+      "front": {
+        "name": "けうけげん",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-002-c-01.webp"
+      }
+    }
+  },
+  "HD02-003-C-01": {
+    "id": "HD02-003-C-01",
+    "name": "つくものジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-003",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Entry Trigger",
+    "illustrator": "itohiro",
+    "face": {
+      "front": {
+        "name": "つくものジャンボ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-003-c-01.webp"
+      }
+    }
+  },
+  "HD02-004-C-01": {
+    "id": "HD02-004-C-01",
+    "name": "怪鳥ふらり火と理系インテ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-004",
+    "power": 5000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Entry Trigger",
+    "illustrator": "CANO",
+    "face": {
+      "front": {
+        "name": "怪鳥ふらり火と理系インテ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-004-c-01.webp"
+      }
+    }
+  },
+  "HD02-005-C-01": {
+    "id": "HD02-005-C-01",
+    "name": "ヒトダマモルン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-005",
+    "power": 5500,
+    "boost": false,
+    "tribe": "ナガレモノ",
+    "keyword": "Barrier",
+    "trigger": "Over Trigger",
+    "feature": "●1バリア（バトルに負けたとき、プレイヤーが受けるダメージは1減る）",
+    "illustrator": "Hiyori",
+    "face": {
+      "front": {
+        "name": "ヒトダマモルン",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-005-c-01.webp"
+      }
+    }
+  },
+  "HD02-006-C-01": {
+    "id": "HD02-006-C-01",
+    "name": "金づち乱坊",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 7,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-006",
+    "power": 9000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "Ishikawa Kenta",
+    "face": {
+      "front": {
+        "name": "金づち乱坊",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-006-c-01.webp"
+      }
+    }
+  },
+  "HD02-007-C-01": {
+    "id": "HD02-007-C-01",
+    "name": "イツキと怪樹ふるそま",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-007",
+    "power": 6000,
+    "boost": true,
+    "tribe": "タイジュ・ブラッド",
+    "trigger": "Over Trigger",
+    "illustrator": "Moopic",
+    "face": {
+      "front": {
+        "name": "イツキと怪樹ふるそま",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-007-c-01.webp"
+      }
+    }
+  },
+  "HD02-008-C-01": {
+    "id": "HD02-008-C-01",
+    "name": "翠炎よ、燃えさかれ！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-008",
+    "power": 5000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "illustrator": "taku",
+    "face": {
+      "front": {
+        "name": "翠炎よ、燃えさかれ！",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-008-c-01.webp"
+      }
+    }
+  },
+  "HD02-009-UC-01": {
+    "id": "HD02-009-UC-01",
+    "name": "すやすやジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "UC",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-009",
+    "power": 2000,
+    "boost": true,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがオーバービートされるとき、このホロビトがダウンしているなら、カードを1枚引く。",
+    "illustrator": "O-G Osahune",
+    "face": {
+      "front": {
+        "name": "すやすやジャンボ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-009-uc-01.webp"
+      }
+    }
+  },
+  "HD02-010-UC-01": {
+    "id": "HD02-010-UC-01",
+    "name": "ケサランパサラン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-010",
+    "power": 4000,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Entry Trigger",
+    "feature": "●1バリア（バトルに負けたとき、プレイヤーが受けるダメージは1減る）",
+    "illustrator": "Harumi Haru",
+    "face": {
+      "front": {
+        "name": "ケサランパサラン",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-010-uc-01.webp"
+      }
+    }
+  },
+  "HD02-011-UC-01": {
+    "id": "HD02-011-UC-01",
+    "name": "ショウと夜に翔ける不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-011",
+    "power": 7000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトが出たとき、自分の手札からコスト7以上のホロビトを1体見せてもよい。そうしたなら、カードを1枚引く。",
+    "illustrator": "Akira Fujikawa",
+    "face": {
+      "front": {
+        "name": "ショウと夜に翔ける不死火",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-011-uc-01.webp"
+      }
+    }
+  },
+  "HD02-012-UC-01": {
+    "id": "HD02-012-UC-01",
+    "name": "学合 フラリンテ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-012",
+    "power": 6000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトにブーストを使っているなら、パワーは+2000される。\n（ワザでは発動しない）\n●このホロビトがバトルに勝ったとき、カードを1枚引く。",
+    "illustrator": "CANO",
+    "face": {
+      "front": {
+        "name": "学合 フラリンテ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-012-uc-01.webp"
+      }
+    }
+  },
+  "HD02-013-UC-01": {
+    "id": "HD02-013-UC-01",
+    "name": "勝ちにいくぞ…！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 1,
+    "rarity": "UC",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-013",
+    "power": 2000,
+    "boost": false,
+    "keyword": "Resonance",
+    "trigger": "Draw Trigger",
+    "feature": "●共鳴：スザク（このワザを使うホロビトの種族がスザクであるなら、このワザは以下の効果を得る）\n　・このワザを使ったとき、相手は手札を1枚選んで捨てる。\n　・このバトルに勝ったとき、自分はカードを1枚引く。",
+    "illustrator": "taku",
+    "face": {
+      "front": {
+        "name": "勝ちにいくぞ…！",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-013-uc-01.webp"
+      }
+    }
+  },
+  "HD02-014-R-01": {
+    "id": "HD02-014-R-01",
+    "name": "滅獣 不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "R",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-014",
+    "power": 7000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがラインに出ているなら、コストは1大きくなる。",
+    "illustrator": "YUKIHIRO MARUO",
+    "face": {
+      "front": {
+        "name": "滅獣 不死火",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-014-r-01.webp"
+      }
+    }
+  },
+  "HD02-015-R-01": {
+    "id": "HD02-015-R-01",
+    "name": "イロハとジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-015",
+    "power": 9000,
+    "boost": true,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Last Over Trigger",
+    "feature": "●このホロビトがバトルに勝ったとき、カードを1枚引く。",
+    "illustrator": "nakazaki tow",
+    "face": {
+      "front": {
+        "name": "イロハとジャンボ",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-015-r-01.webp"
+      }
+    }
+  },
+  "HD02-016-R-01": {
+    "id": "HD02-016-R-01",
+    "name": "執燃！ 不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-016",
+    "power": 11000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトがダウンしたとき、カードを2枚引く。",
+    "illustrator": "Tada",
+    "face": {
+      "front": {
+        "name": "執燃！ 不死火",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-016-r-01.webp"
+      }
+    }
+  },
+  "HD02-017-SR-01": {
+    "id": "HD02-017-SR-01",
+    "name": "霊合 不死火翔",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "SR",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-017",
+    "power": 12000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトの下にカードが2枚以上あるなら、パワーを+3000する。",
+    "illustrator": "TATSUMA DAISUKE",
+    "face": {
+      "front": {
+        "name": "霊合 不死火翔",
+        "type": "Holobito",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-017-sr-01.webp"
+      }
+    }
+  },
+  "HD02-017-DR-01": {
+    "id": "HD02-017-DR-01",
+    "name": "霊合 不死火翔",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "DR",
+    "package": [
+      "HB-SD02"
+    ],
+    "cardNumber": "HD02-017",
+    "power": 12000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）\n●このホロビトの下にカードが2枚以上あるなら、パワーを+3000する。",
+    "illustrator": "KARUTA SHIKI",
+    "face": {
+      "front": {
+        "name": "霊合 不死火翔",
+        "type": "Holobito",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/hd02-017-dr-01.webp"
+      }
+    }
+  },
+  "PR-028-UC-01": {
+    "id": "PR-028-UC-01",
+    "name": "ジンと奮雷するレオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "PR-BOX-HB-BP01"
+    ],
+    "cardNumber": "PR-028",
+    "power": 4500,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み赤3（自分のエナゾーンに赤のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・ダウンしていないなら、パワーを+3000する。",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "ジンと奮雷するレオ",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-028-uc-01.webp"
+      }
+    }
+  },
+  "PR-029-UC-01": {
+    "id": "PR-029-UC-01",
+    "name": "ショウと夜に翔ける不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "UC",
+    "package": [
+      "PR-BOX-HB-BP01"
+    ],
+    "cardNumber": "PR-029",
+    "power": 7000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み緑3（自分のエナゾーンに緑のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・このホロビトが出たとき、自分の手札からコスト7以上のホロビトを1体見せてもよい。そうしたなら、カードを1枚引く。",
+    "illustrator": "Akira Fujikawa",
+    "face": {
+      "front": {
+        "name": "ショウと夜に翔ける不死火",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-029-uc-01.webp"
+      }
+    }
+  },
+  "PR-030-UC-01": {
+    "id": "PR-030-UC-01",
+    "name": "義彦と正義の九郎坊",
+    "type": "Holobito",
+    "color": [
+      "Blue"
+    ],
+    "cost": 4,
+    "rarity": "UC",
+    "package": [
+      "PR-BOX-HB-BP01"
+    ],
+    "cardNumber": "PR-030",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ジャスティス・オーダー",
+    "keyword": "Ena-yomi",
+    "trigger": "Over Trigger",
+    "feature": "●エナ詠み青3（自分のエナゾーンに青のエナが3枚以上あるなら、このホロビトは以下の効果を得る）\n　・ワザを使っていれば、パワーを+3000し、ダブルダメージを得る。\n（ダブルダメージを持つホロビトがバトルに勝ったなら、相手プレイヤーに1ではなく2ダメージを与える）",
+    "illustrator": "KARUTA SHIKI",
+    "face": {
+      "front": {
+        "name": "義彦と正義の九郎坊",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-030-uc-01.webp"
+      }
+    }
+  },
+  "PR-002-C-01": {
+    "id": "PR-002-C-01",
+    "name": "雷のレオ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-002",
+    "power": 3500,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "雷のレオ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-002-c-01.webp"
+      }
+    }
+  },
+  "PR-003-C-01": {
+    "id": "PR-003-C-01",
+    "name": "お寺の猫 レオまる",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-003",
+    "power": 2500,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "O-G Osahune",
+    "face": {
+      "front": {
+        "name": "お寺の猫 レオまる",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-003-c-01.webp"
+      }
+    }
+  },
+  "PR-004-C-01": {
+    "id": "PR-004-C-01",
+    "name": "弾田ダンクとバケゾウリ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-004",
+    "power": 3000,
+    "boost": false,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトが破壊されたとき、カードを1枚引く。",
+    "illustrator": "YOSHIDA Kiyotaka",
+    "face": {
+      "front": {
+        "name": "弾田ダンクとバケゾウリ",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-004-c-01.webp"
+      }
+    }
+  },
+  "PR-005-UC-01": {
+    "id": "PR-005-UC-01",
+    "name": "運命の出会い レオとジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-005",
+    "power": 3000,
+    "boost": false,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトにブーストを使ったとき、カードを1枚引く。\n（ワザでは発動しない）",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "運命の出会い レオとジン",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-005-uc-01.webp"
+      }
+    }
+  },
+  "PR-006-UC-01": {
+    "id": "PR-006-UC-01",
+    "name": "お出迎え 七尾とヒナタ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-006",
+    "power": 2000,
+    "boost": true,
+    "tribe": "マボロシ・コミューン",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトはバトルに負けてもダメージを受けない。\n（自分のハートはダメージを受ける）",
+    "illustrator": "IRIA",
+    "face": {
+      "front": {
+        "name": "お出迎え 七尾とヒナタ",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-006-uc-01.webp"
+      }
+    }
+  },
+  "PR-007-C-01": {
+    "id": "PR-007-C-01",
+    "name": "イタチのかまいち",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-007",
+    "power": 4500,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "UKAI bakuinu",
+    "face": {
+      "front": {
+        "name": "イタチのかまいち",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-007-c-01.webp"
+      }
+    }
+  },
+  "PR-008-C-01": {
+    "id": "PR-008-C-01",
+    "name": "ベトベトくん",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-008",
+    "power": 3000,
+    "boost": false,
+    "tribe": "ナガレモノ",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがバトルに勝ったとき、カードを1枚引く。\n（正面に相手のホロビトがいない場合も発動する）",
+    "illustrator": "Harumi Haru",
+    "face": {
+      "front": {
+        "name": "ベトベトくん",
+        "type": "Holobito",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-008-c-01.webp"
+      }
+    }
+  },
+  "PR-009-C-01": {
+    "id": "PR-009-C-01",
+    "name": "連打！ カミナリ小僧",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-009",
+    "power": 5000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージ与える）",
+    "illustrator": "Rumie",
+    "face": {
+      "front": {
+        "name": "連打！ カミナリ小僧",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-009-c-01.webp"
+      }
+    }
+  },
+  "PR-010-UC-01": {
+    "id": "PR-010-UC-01",
+    "name": "弾合 ダンゾウ",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-010",
+    "power": 6000,
+    "boost": true,
+    "tribe": "フウガ・ファミリー",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトにはオーバービートできない。\n●このホロビトが出たとき、カードを2枚引く。",
+    "illustrator": "YOSHIDA Kiyotaka",
+    "face": {
+      "front": {
+        "name": "弾合 ダンゾウ",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-010-uc-01.webp"
+      }
+    }
+  },
+  "PR-011-R-01": {
+    "id": "PR-011-R-01",
+    "name": "合身 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-011",
+    "power": 9000,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージ与える）\n●自分のホロビトが4体以上いるなら、このホロビトのパワーを+3000する。",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "合身 レオジン",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-011-r-01.webp"
+      }
+    }
+  },
+  "PR-012-C-01": {
+    "id": "PR-012-C-01",
+    "name": "快復祈願",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 1,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-012",
+    "power": 1000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このワザを使ったとき、このホロビトを回復する。",
+    "illustrator": "IRIA",
+    "face": {
+      "front": {
+        "name": "快復祈願",
+        "type": "Waza",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-012-c-01.webp"
+      }
+    }
+  },
+  "PR-013-C-01": {
+    "id": "PR-013-C-01",
+    "name": "電光攻火",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-013",
+    "power": 5000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "illustrator": "Ochika",
+    "face": {
+      "front": {
+        "name": "電光攻火",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-013-c-01.webp"
+      }
+    }
+  },
+  "PR-014-UC-01": {
+    "id": "PR-014-UC-01",
+    "name": "雷風怒濤",
+    "type": "Waza",
+    "color": [
+      "Red"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26R"
+    ],
+    "cardNumber": "PR-014",
+    "power": 6000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "Inuchiyo Meimaru",
+    "face": {
+      "front": {
+        "name": "雷風怒濤",
+        "type": "Waza",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-014-uc-01.webp"
+      }
+    }
+  },
+  "PR-015-C-01": {
+    "id": "PR-015-C-01",
+    "name": "炎の不死火",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-015",
+    "power": 1000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトがオーバービートされるとき、このホロビトがダウンしているなら、カードを1枚引く。",
+    "illustrator": "Tada",
+    "face": {
+      "front": {
+        "name": "炎の不死火",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-015-c-01.webp"
+      }
+    }
+  },
+  "PR-016-C-01": {
+    "id": "PR-016-C-01",
+    "name": "ソロキャンしなずいさま",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-016",
+    "power": 2000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Entry Trigger",
+    "feature": "●このホロビトにブーストを使っているなら、パワーは+2000される。\n（ワザでは発動しない）",
+    "illustrator": "kodama",
+    "face": {
+      "front": {
+        "name": "ソロキャンしなずいさま",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-016-c-01.webp"
+      }
+    }
+  },
+  "PR-017-C-01": {
+    "id": "PR-017-C-01",
+    "name": "麺屋 力とビシャガツク",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-017",
+    "power": 2500,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "trigger": "Entry Trigger",
+    "illustrator": "Naoki Eguchi",
+    "face": {
+      "front": {
+        "name": "麺屋 力とビシャガツク",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-017-c-01.webp"
+      }
+    }
+  },
+  "PR-018-UC-01": {
+    "id": "PR-018-UC-01",
+    "name": "苔ぼうず",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-018",
+    "power": 4000,
+    "boost": false,
+    "tribe": "ラシャ・ブラッド",
+    "keyword": "Barrier",
+    "trigger": "Entry Trigger",
+    "feature": "●1バリア（バトルに負けたとき、プレイヤーが受けるダメージは1減る）",
+    "illustrator": "Chisa Nekozane",
+    "face": {
+      "front": {
+        "name": "苔ぼうず",
+        "type": "Holobito",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-018-uc-01.webp"
+      }
+    }
+  },
+  "PR-019-C-01": {
+    "id": "PR-019-C-01",
+    "name": "怪鳥 ヨゲン",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-019",
+    "power": 6000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Over Trigger",
+    "illustrator": "madöwl",
+    "face": {
+      "front": {
+        "name": "怪鳥 ヨゲン",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-019-c-01.webp"
+      }
+    }
+  },
+  "PR-020-C-01": {
+    "id": "PR-020-C-01",
+    "name": "必然の出会い 不死火とショウ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-020",
+    "power": 5000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがオーバービートされるとき、このホロビトがダウンしているなら、カードを1枚引く。",
+    "illustrator": "Akira Fujikawa",
+    "face": {
+      "front": {
+        "name": "必然の出会い 不死火とショウ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-020-c-01.webp"
+      }
+    }
+  },
+  "PR-021-C-01": {
+    "id": "PR-021-C-01",
+    "name": "フクロムジナ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-021",
+    "power": 6500,
+    "boost": true,
+    "tribe": "ナガレモノ",
+    "trigger": "Over Trigger",
+    "illustrator": "Moopic",
+    "face": {
+      "front": {
+        "name": "フクロムジナ",
+        "type": "Holobito",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-021-c-01.webp"
+      }
+    }
+  },
+  "PR-022-UC-01": {
+    "id": "PR-022-UC-01",
+    "name": "やっほー！ イロハとジャンボ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 6,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-022",
+    "power": 6500,
+    "boost": false,
+    "tribe": "ユルフワ・クラブ",
+    "trigger": "Over Trigger",
+    "feature": "●このホロビトがバトルに勝ったとき、カードを1枚引く。\n（正面に相手のホロビトがいない場合も発動する）",
+    "illustrator": "nakazaki tow",
+    "face": {
+      "front": {
+        "name": "やっほー！ イロハとジャンボ",
+        "type": "Holobito",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-022-uc-01.webp"
+      }
+    }
+  },
+  "PR-023-UC-01": {
+    "id": "PR-023-UC-01",
+    "name": "怪鳥 カミギリ",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 7,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-023",
+    "power": 7000,
+    "boost": true,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージ与える）",
+    "illustrator": "shishimi",
+    "face": {
+      "front": {
+        "name": "怪鳥 カミギリ",
+        "type": "Holobito",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-023-uc-01.webp"
+      }
+    }
+  },
+  "PR-024-C-01": {
+    "id": "PR-024-C-01",
+    "name": "麺合 チカラガツク",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-024",
+    "power": 10000,
+    "boost": true,
+    "tribe": "ラシャ・ブラッド",
+    "trigger": "Last Over Trigger",
+    "illustrator": "Naoki Eguchi",
+    "face": {
+      "front": {
+        "name": "麺合 チカラガツク",
+        "type": "Holobito",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-024-c-01.webp"
+      }
+    }
+  },
+  "PR-025-R-01": {
+    "id": "PR-025-R-01",
+    "name": "合身 不死火翔",
+    "type": "Holobito",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "R",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-025",
+    "power": 10000,
+    "boost": false,
+    "tribe": "スザク・ブラッド",
+    "keyword": "Double Damage",
+    "trigger": "Last Over Trigger",
+    "feature": "●ダブルダメージ（バトルに勝ったなら、相手プレイヤーに1ではなく2ダメージ与える）\n●このホロビトの下にカードが2枚以上あるなら、このホロビトのパワーを+2000する。",
+    "illustrator": "SHIRAI HIDEMI",
+    "face": {
+      "front": {
+        "name": "合身 不死火翔",
+        "type": "Holobito",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-025-r-01.webp"
+      }
+    }
+  },
+  "PR-026-C-01": {
+    "id": "PR-026-C-01",
+    "name": "翠炎よ、燃えさかれ！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-026",
+    "power": 5000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "illustrator": "taku",
+    "face": {
+      "front": {
+        "name": "翠炎よ、燃えさかれ！",
+        "type": "Waza",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-026-c-01.webp"
+      }
+    }
+  },
+  "PR-027-UC-01": {
+    "id": "PR-027-UC-01",
+    "name": "長距離、葬！",
+    "type": "Waza",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "UC",
+    "package": [
+      "PR-CORO26G"
+    ],
+    "cardNumber": "PR-027",
+    "power": 6000,
+    "boost": false,
+    "trigger": "Draw Trigger",
+    "feature": "●このバトルに勝ったなら、このホロビトが相手プレイヤーに与えるダメージを+1する。",
+    "illustrator": "Tada",
+    "face": {
+      "front": {
+        "name": "長距離、葬！",
+        "type": "Waza",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-027-uc-01.webp"
+      }
+    }
+  },
+  "PR-001-C-01": {
+    "id": "PR-001-C-01",
+    "name": "壱合 レオジン",
+    "type": "Holobito",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "PR"
+    ],
+    "cardNumber": "PR-001",
+    "power": 1114,
+    "boost": true,
+    "tribe": "ライガ・ファミリー",
+    "trigger": "Entry Trigger",
+    "illustrator": "teo",
+    "face": {
+      "front": {
+        "name": "壱合 レオジン",
+        "type": "Holobito",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-Holobeat/main/Images/pr-001-c-01.webp"
+      }
+    }
+  }
+}

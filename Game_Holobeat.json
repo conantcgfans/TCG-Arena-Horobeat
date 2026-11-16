@@ -1,0 +1,285 @@
+{
+  "name": "Holobeat",
+  "menuBackgroundImage": "",
+  "cardRotation": 90,
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "https://conantcgfans.github.io/TCG-Arena-Holobeat/HolobeatDecks.json"
+  },
+  "customHelp": "DECK: exactly 50 cards, max 4 per card name. SETUP: Rock-paper-scissors; winner is first player (take the First Player token) and picks which side is Line 1. Draw 6, may mulligan once (whole hand). Put the top 5 cards of your deck face-down UPRIGHT into Hearts, and the top 1 card into Ena (unused = upright). ROUND = Summon Phase -> Battle Phase -> End Phase. SUMMON PHASE (first player, then second): Draw 1 (skip in round 1; if your deck is empty at Draw you LOSE). Ena Charge: may put 1 card from hand into Ena. Main: play Holobito by paying cost (tap that many Ena; at least one paid card - or the Overbeat base - must share each of the card's colors). New Line = your innermost empty line. Overbeat = stack on your own Holobito with LOWER cost, pay only the difference. Boost cannot be used in Summon Phase. BATTLE PHASE: resolve Line 1 to Line 5 (skip empty lines). On each line, starting with first player, alternate: use a Waza (put it sideways in that line), Boost (put a Boost Holobito sideways, pay its boost cost), or Pass. Both pass in a row -> compare power (Holobito + Waza/Boost on that line). Winner deals 1 damage to the opposing Holobito AND 1 damage to the opponent (Double Damage = 2). Tie: both Holobito take 1. Unopposed Holobito wins. DAMAGE: an upright card becomes DOWN (tap it); a card already down is DESTROYED. Player damage hits the top Heart. Destroyed Hearts go to Check Zone; after damage, for each: activate its Trigger (reveal it) or put it into your hand. Entry T: play it new-line or Overbeat free. Over T: Overbeat free. Draw T: discard it, draw 3. Last Over T: add to hand, draw 1; if you have 1 or fewer Hearts you may Overbeat it free. After each line, Waza/Boost cards there go to the graveyard. Whoever won Line 1 is first player next round (draw / no battle on Line 1 = swap). END PHASE: temporary power changes end. Slide: move Holobito inward to fill empty lines. Ena Draw: draw cards equal to your UNUSED (untapped) Ena. Then untap all Ena. LOSE: you take damage with no Hearts left, or you start your Draw step with an empty deck. EVENT TIEBREAK (time out, extra round still tied): most Hearts (down ones count), then most Holobito on field, then next round's first player wins.",
+  "cards": {
+    "dataUrl": "https://conantcgfans.github.io/TCG-Arena-Holobeat/HolobeatCards.json",
+    "cardBack": "https://conantcgfans.github.io/TCG-Arena-Holobeat/Images/CardBack.jpg"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "color",
+      "cost",
+      "package",
+      "trigger"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "deckRuleset": "Classic",
+        "customCategories": []
+      }
+    ],
+    "deckRulesets": {
+      "Classic": {
+        "checkCardLegality": false,
+        "general": {
+          "min": 50,
+          "max": 50,
+          "maxPerCard": 4
+        },
+        "categories": []
+      }
+    }
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Once: shuffle your whole hand back into the deck and draw 6 new cards.",
+        "startingHandSize": 6,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "First Player",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "draggableTokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Line1",
+          "Line2",
+          "Line3",
+          "Line4",
+          "Line5",
+          "Heart",
+          "Check",
+          "Ena"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh",
+                "justifyContent": "start"
+              },
+              "isSymetricalForOpponents": false,
+              "content": [
+                {
+                  "section": "Heart",
+                  "style": false
+                },
+                {
+                  "section": "Check",
+                  "style": false
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "isSymetricalForOpponents": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "isSymetricalForOpponents": false,
+                  "content": [
+                    {
+                      "section": "Line1",
+                      "style": {
+                        "width": "20%"
+                      }
+                    },
+                    {
+                      "section": "Line2",
+                      "style": {
+                        "width": "20%"
+                      }
+                    },
+                    {
+                      "section": "Line3",
+                      "style": {
+                        "width": "20%"
+                      }
+                    },
+                    {
+                      "section": "Line4",
+                      "style": {
+                        "width": "20%"
+                      }
+                    },
+                    {
+                      "section": "Line5",
+                      "style": {
+                        "width": "20%"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "section": "Ena",
+                  "style": {
+                    "height": "SMALL"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Line1": {
+            "title": "Line1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Line 1",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Line2": {
+            "title": "Line2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Line 2",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Line3": {
+            "title": "Line3",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Line 3",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Line4": {
+            "title": "Line4",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Line 4",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Line5": {
+            "title": "Line5",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Line 5",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Heart": {
+            "title": "Heart",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Hearts",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Check": {
+            "title": "Check",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Check Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Ena": {
+            "title": "Ena",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Ena",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
