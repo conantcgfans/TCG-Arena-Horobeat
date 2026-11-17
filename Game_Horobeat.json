@@ -74,6 +74,9 @@
         ],
         "layout": {
           "direction": "row",
+          "style": {
+            "height": "40%"
+          },
           "isSymetricalForOpponents": true,
           "content": [
             {
