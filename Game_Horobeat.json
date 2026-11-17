@@ -74,9 +74,6 @@
         ],
         "layout": {
           "direction": "row",
-          "style": {
-            "height": "40%"
-          },
           "isSymetricalForOpponents": true,
           "content": [
             {
@@ -110,31 +107,36 @@
                     {
                       "section": "Line1",
                       "style": {
-                        "width": "20%"
+                        "width": "20%",
+                        "height": "20vh"
                       }
                     },
                     {
                       "section": "Line2",
                       "style": {
-                        "width": "20%"
+                        "width": "20%",
+                        "height": "20vh"
                       }
                     },
                     {
                       "section": "Line3",
                       "style": {
-                        "width": "20%"
+                        "width": "20%",
+                        "height": "20vh"
                       }
                     },
                     {
                       "section": "Line4",
                       "style": {
-                        "width": "20%"
+                        "width": "20%",
+                        "height": "20vh"
                       }
                     },
                     {
                       "section": "Line5",
                       "style": {
-                        "width": "20%"
+                        "width": "20%",
+                        "height": "20vh"
                       }
                     }
                   ]
@@ -142,7 +144,7 @@
                 {
                   "section": "Ena",
                   "style": {
-                    "height": "MEDIUM"
+                    "height": "20vh"
                   }
                 }
               ]
